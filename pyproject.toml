@@ -1,0 +1,11 @@
+[project]
+name = "langgraph-start"
+version = "0.1.0"
+description = "LangGraph 学习项目：从零到多智能体"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.4.7",
+    "langchain-openai>=1.7.3",
+    "langgraph>=1.2.19",
+    "python-dotenv>=1.2.4",
+]
